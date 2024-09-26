@@ -18,6 +18,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mzribel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=midnight-purple&hide_border=true&order=2" height="200" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=mzribel&locale=en&mode=weekly&theme=midnight-purple&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="200" alt="streak graph"  />
 </div>
+Note: I absolutely love Java but I think [my coworker](https://github.com/Tony-De-Donato) is to blame for that 90% java stat since the day he uploaded a whole-ass java library on one of my repos <3
+
 
 ###
 
@@ -36,6 +38,5 @@
   </a>
 </div>
 
-Note: I absolutely love Java but I think [my coworker](https://github.com/Tony-De-Donato) is to blame for that 90% java stat since the day he uploaded a whole-ass java library on one of my repos <3
 ###
 
