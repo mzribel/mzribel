@@ -6,10 +6,19 @@
 
 ###
 
+<div align="left">
+</div>
 
+###
 
-## Some stats about my work 
+<h2 align="left">About</h2>
 
+<br clear="both">
+<p align="left">Third-year CS student and wannabe software engineer eating 5 apples a day 🍏<br>Passionate about space and fascinated by physics laws I pretty much don't understand anything about 🪐</p>
+
+###
+
+<h2 align="left">Some stats about my projects</h2>
 <br clear="both">
 
 <div align="left">
@@ -20,16 +29,20 @@
 
 ###
 
-## Wanna contact me ?
-
+<h2 align="left">Wanna contact me ?</h2>
 <br clear="both">
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="30" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="45" height="30" alt="microsoft-outlook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="45" height="30" alt="discord logo"  />
+  <a href="https://www.linkedin.com/in/marianne-corbel/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:mariannecorbel@hotmail.fr" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="45" height="30" alt="microsoft-outlook logo"  />
+  </a>
+  <a href="https;//discordapp.com/users/343565990891880470" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="45" height="30" alt="discord logo"  />
+  </a>
 </div>
 
 ###
-
 
