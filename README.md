@@ -13,9 +13,8 @@
 
 <h2 align="left">About</h2>
 
-<br clear="both">
 <p align="left">Third-year CS student and wannabe software engineer eating 5 apples a day 🍏<br>Passionate about space and fascinated by physics laws I pretty much don't understand anything about 🪐</p>
-
+<br clear="both">
 ###
 
 <h2 align="left">Some stats about my projects</h2>
