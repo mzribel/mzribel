@@ -36,5 +36,6 @@
   </a>
 </div>
 
+Note: I absolutely love Java but I think [my coworker](https://github.com/Tony-De-Donato) is to blame for that 90% java stat since the day he uploaded a whole-ass java library on one of my repos <3
 ###
 
