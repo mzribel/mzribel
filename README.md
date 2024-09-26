@@ -8,7 +8,7 @@
 
 
 
-## Statistics
+## Some stats about my work 
 
 <br clear="both">
 
