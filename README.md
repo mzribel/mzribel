@@ -6,7 +6,7 @@
 
 <h2 align="left">About</h2>
 
-<p align="left">First-year Master in CS studies and wannabe software engineer eating 5 apples a day 🍏<br>Passionate about space and fascinated by physics laws I pretty much don't understand anything about 🪐</p>
+<p align="left">Second-year Master in CS studies and wannabe software engineer eating some apples a day 🍏<br>Passionate about space and fascinated by physics laws I pretty much don't understand anything about 🪐</p>
 
 ###
 
